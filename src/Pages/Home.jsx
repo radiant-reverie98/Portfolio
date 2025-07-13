@@ -1,5 +1,6 @@
 import React from 'react'
 import ThemeToggle from '../Components/ThemeToggle'
+import StarBackground from '../Components/StarBackground'
 
 function Home() {
   return (
@@ -7,7 +8,7 @@ function Home() {
         {/* Theme toggle */}
         <ThemeToggle/>
         {/* Background effects */}
-
+        <StarBackground/>
         {/* Navbar */}
 
         {/* Main Content */}
