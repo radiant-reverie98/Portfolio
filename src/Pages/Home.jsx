@@ -1,6 +1,8 @@
 import React from 'react'
 import ThemeToggle from '../Components/ThemeToggle'
 import StarBackground from '../Components/StarBackground'
+import Navbar from '../Components/Navbar'
+import HeroSection from '../Components/HeroSection'
 
 function Home() {
   return (
@@ -10,9 +12,11 @@ function Home() {
         {/* Background effects */}
         <StarBackground/>
         {/* Navbar */}
-
+        <Navbar/>
         {/* Main Content */}
-
+        <main>
+            <HeroSection/>
+        </main>
 
         {/* Footer */}
     </div>
