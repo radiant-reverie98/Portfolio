@@ -9,7 +9,7 @@ function ProjectSection() {
         id : "1",
         title : "GrabNestt - ECommerce Portal",
         description : "A full-stack e-commerce portal offering seamless shopping, order tracking, and secure checkout for modern buyers.",
-        image : "../../public/projects/e-com.png",
+        image : "/projects/e-com.png",
         tags : ["NodeJS","ExpressJS","MySQL","ReactJS","TailwindCSS"],
         demoURL : "#",
         gitHubURL : "https://github.com/radiant-reverie98/ECommerce-portal"
@@ -19,7 +19,7 @@ function ProjectSection() {
         id : "2",
         title : "BlogMarket",
         description : "Blog Market is a clean, user-friendly platform to create, browse, and share blogs seamlessly online.",
-        image : "../../public/projects/blogMarket.png",
+        image : "/projects/blogMarket.png",
         tags : ["NodeJS","ExpressJS","MongoDB","ReactJS","TailwindCSS"],
         demoURL : "#",
         gitHubURL : "https://github.com/radiant-reverie98/Blog-Market-"
@@ -28,7 +28,7 @@ function ProjectSection() {
         id : "3",
         title : "NewsMonkey",
         description : "News Monkey is a React app fetching real-time news from NewsAPI, categorized for easy browsing.",
-        image : "../../public/projects/newsmonkey.png",
+        image : "/projects/newsmonkey.png",
         tags : ["ReactJS","TailwindCSS"],
         demoURL : "#",
         gitHubURL : "https://github.com/radiant-reverie98/News-Monkey"
