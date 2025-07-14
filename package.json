@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@coreui/icons": "^3.0.1",
+    "@coreui/icons-react": "^2.3.0",
     "@radix-ui/react-toast": "^1.2.14",
     "@tailwindcss/vite": "^4.1.11",
     "class-variance-authority": "^0.7.1",

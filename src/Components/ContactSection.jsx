@@ -1,4 +1,6 @@
 import { Linkedin, LocateFixedIcon, LocateIcon, Mail, MapPin, Send, Twitter } from "lucide-react";
+import { CIcon } from '@coreui/icons-react';
+import {cibLeetcode} from '@coreui/icons';
 import React from "react";
 import { cn } from "../lib/utils";
 
@@ -44,6 +46,7 @@ function ContactSection() {
                 <div className="flex space-x-4 justify-center">
                     <a href="https://www.linkedin.com/in/tejendra-singh98/" className="hover:text-primary/100" target="__blank"><Linkedin/></a>
                     <a href="https://x.com/tejendra_1103" className="hover:text-primary/100" target="__blank"><Twitter/></a>
+                    <a href="https://x.com/tejendra_1103" className="hover:text-primary/100" target="__blank"><CIcon icon={cibLeetcode} size="2xl" /></a>
 
                 </div>
             </div>
