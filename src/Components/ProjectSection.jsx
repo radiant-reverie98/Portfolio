@@ -1,7 +1,10 @@
 import React from 'react'
 
 function ProjectSection() {
-    const projects = [];
+    const projects = [{
+        title : "NewsMonkey",
+        description : ""
+    }];
   return (
     <div>
       
